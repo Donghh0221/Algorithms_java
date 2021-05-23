@@ -1,4 +1,4 @@
-package programmers_level1_innerprod;
+package Programmers_level1_innerprod_Think;
 
 class Solution {
     public int solution(int[] a, int[] b) {

@@ -1,4 +1,4 @@
-package programmers_level2_get_central_character;
+package Programmers_level1_Central_character_Solved;
 
 class Solution {
     public String solution(String s) {

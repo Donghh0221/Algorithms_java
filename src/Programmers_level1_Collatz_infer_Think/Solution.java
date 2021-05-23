@@ -1,4 +1,4 @@
-package programmers_level1_Collatz_infer;
+package Programmers_level1_Collatz_infer_Think;
 
 class Solution {
     public int solution(long num) {
